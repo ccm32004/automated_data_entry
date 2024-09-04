@@ -8,6 +8,7 @@ from function import automate, removeSpace, getDate
 
 options = webdriver.ChromeOptions()
 
+#put this in an env file
 username = "username"
 password = "password"
 url = 'url of form'
